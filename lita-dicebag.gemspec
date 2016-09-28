@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-dicebag"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Craig Davis"]
   spec.email         = ["cdavis@stoneydavis.com"]
   spec.description   = "Add a dice roller to Lita"
   spec.summary       = "Use DiceBag to make dice rolls"
-  spec.homepage      = "https://github.com/syntruth/Dice-Bag"
+  spec.homepage      = "https://github.com/blade2005/lita-dicebag"
   spec.license       = "GPLv3"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
